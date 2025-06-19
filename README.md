@@ -26,6 +26,8 @@ Beyond its learning value, this tool serves as a practical starting point for bu
 
 To summarize, this project offers a clean, dependency-free snapshot of lexical analysis that is both educational and extensible. Beginners gain foundational exposure to compiler front ends, while intermediate developers can leverage it for experimentation or prototyping. Contributions and enhancements are welcome—fork the repo, extend its capabilities, and commit your updates. Clone the repository, build with make, analyze a C file, and take your first step into compiler design!**
 
+*OUTPUT PICTURE*:
 
+![Image](https://github.com/user-attachments/assets/573777b2-a8d6-4629-b25b-7ff3f9e77f93)
 
 
